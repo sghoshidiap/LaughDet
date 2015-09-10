@@ -1,3 +1,4 @@
+%@COPYRIGHT Sucheta Ghosh sucheta.ghosh@idiap.ch
 clear all; close all;
 [Y1,FS1,NBITS1,OPTS1]=wavread('sgbb1.wav');
 x1=Y1;
